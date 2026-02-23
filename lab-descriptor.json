@@ -9,7 +9,7 @@
   "phase": "3-ext",
   "collegeName": "DLBG",
   "baseUrl": "al-dei.vlabs.ac.in",
-  "introduction": "<ul><li>Linear Algebra is a foundational discipline in Science and Engineering, with applications in various fields such as Computer Graphics, Data Science, Physics, Machine Learning and many other technological and scientific domains.</li> <li>This lab is designed to make abstract concepts of Linear Algebra easier to understand and hence enable user to apply these wherever needed.</li><li>The theory section is supplemented with schematic representations to facilitate understanding and a deeper appreciation of the intrinsic concepts. Illustrative examples of various types are also provided.</li><li>Simulation is supported by dynamic interface for hands on practice. Dynamic outcomes are linked on multiple pages as and when required.</li><li>Interactive exercises are provided in simulation, making it knowledgeable and interesting.</li><li>Graphical representations are provided in simulation for geometrical visualization.</li><li>Self-assessments well aligned with the experiments.</li><li> Pre-tests are structured to enable learners to assess their pre-requisite knowledge from prior experiments or foundational concepts. Post-tests are administered after the experiment and are designed to enable users to evaluate their understanding of the experiment.</li><li>Interface of the simulation is user friendly. Procedure has also been given separately.</li></ul>",
+  "introduction": "<ul><li>Linear Algebra is a foundational discipline in Science and Engineering, with applications in various fields such as Computer Graphics, Data Science, Physics, Machine Learning and many other technological and scientific domains.</li> <li>This lab is designed to make abstract concepts of Linear Algebra easier to understand and hence enable user to apply these wherever needed.</li><li>Procedure for simulation has been given separately, while the interface is also user-friendly.</li><li>Simulation is supported by dynamic interface for hands on practice. Dynamic outcomes are linked on multiple pages as and when required.</li><li>Interactive exercises are provided in simulation, making it knowledgeable and interesting.</li><li>Graphical representations are provided in simulation for geometrical visualization.</li><li>Self-assessments well aligned with the experiments.</li><li> Pre-tests are structured to enable learners to assess their pre-requisite knowledge from prior experiments or foundational concepts. Post-tests are administered after the experiment and are designed to enable users to evaluate their understanding of the experiment.</li><li>Self-assessments in simulation are well aligned with the experiments.</li></ul>",
   "experiments":[
   {
     "name": "Euclidean Space as a Vector Space",
@@ -84,13 +84,13 @@
 ],
   "targetAudience": {
     "UG": [
-      "The Linear Algebra Virtual Lab is intended for undergraduate students in science and engineering"
+      "The Linear Algebra Virtual Lab is intended for undergraduate (UG) students in science and engineering, as well as faculty members and research scholars"
     ],
     "PG": [
       "The Linear Algebra Virtual Lab is intended for Postgraduate (PG) students in science and engineering, as well as faculty members and research scholars."
   ]
   },
-  "objective": "The Linear Algebra Virtual Lab aims to provide a comprehensive understanding and visualization of the fundamental concepts of Linear Algebra with special focus on Systems of Linear Equations with application to Ordinary Linear Differential Equations, in a user-friendly manner. It also aims to encourage learning beyond traditional methods by promoting intuitive and interactive engagement through examples schematics and interactive and dynamic interface.",
+  "objective": "The Linear Algebra Virtual Lab aims to provide a comprehensive understanding and visualization of the fundamental concepts of Linear Algebra with special focus on Systems of Linear Equations with application to Ordinary Linear Differential Equations, in a user-friendly manner. It also aims to encourage learning beyond traditional methods by promoting intuitive and hands-on engagement through examples, schematics and interactive and dynamic interface.",
   "courseAlignment": {
     "description": "The syllabi of this lab aligns to the following universities in India.",
     "universities": [
