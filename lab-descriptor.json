@@ -50,7 +50,7 @@
     "name": "Rank and Nullity of Linear Transformations and Matrices",
     "short-name": "rank-nullity",
     "repo": "https://github.com/virtual-labs/exp-rank-nullity-dei",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
@@ -71,14 +71,14 @@
     "name": "Eigen Values, Eigen Vectors and Diagonalization",
     "short-name": "eigen-diagonalization",
     "repo": "https://github.com/virtual-labs/exp-eigen-diagonalization-dei",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Application to Ordinary Linear Differential Equations and Engineering Problems",
     "short-name": "ordinary-linear-differential",
     "repo": "https://github.com/virtual-labs/exp-ordinary-linear-differential-dei",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   }
 ],
