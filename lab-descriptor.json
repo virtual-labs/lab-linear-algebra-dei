@@ -15,70 +15,70 @@
     "name": "Euclidean Space as a Vector Space",
     "short-name": "euclidean-space-vector",
     "repo": "https://github.com/virtual-labs/exp-euclidean-space-vector-dei",
-    "tag": "v1.0.1",
+    "tag": "v1.0.2",
     "deploy": true
   },
   {
     "name": "Subspace of a Vector Space",
     "short-name": "subspace-vector",
     "repo": "https://github.com/virtual-labs/exp-subspace-vector-dei",
-    "tag": "v1.0.1",
+    "tag": "v1.0.2",
     "deploy": true
   },
   {
     "name": "Linear Combination and Span",
     "short-name": "linear-combination-span",
     "repo": "https://github.com/virtual-labs/exp-linear-combination-span-dei",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Linear Independence, Basis, Dimension and Coordinates",
     "short-name": "linear-dimension-coordinates",
     "repo": "https://github.com/virtual-labs/exp-Linear-dimension-coordinates-dei",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Linear Transformations and Their Connection with Matrices",
     "short-name": "linear-transformation-matrices",
     "repo": "https://github.com/virtual-labs/exp-linear-transformation-matrices-dei",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Rank and Nullity of Linear Transformations and Matrices",
     "short-name": "rank-nullity",
     "repo": "https://github.com/virtual-labs/exp-rank-nullity-dei",
-    "tag": "v1.0.1",
+    "tag": "v1.0.2",
     "deploy": true
   },
   {
     "name": "Linear Map Equation and Its Solution",
     "short-name": "linear-map-equation",
     "repo": "https://github.com/virtual-labs/exp-linear-map-equation-dei",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Solution of System of Linear Equations using Linear Map Equation",
     "short-name": "solution-system-linear-equation",
     "repo": "https://github.com/virtual-labs/exp-solution-system-linear-equation-dei",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Eigen Values, Eigen Vectors and Diagonalization",
     "short-name": "eigen-diagonalization",
     "repo": "https://github.com/virtual-labs/exp-eigen-diagonalization-dei",
-    "tag": "v1.0.1",
+    "tag": "v1.0.2",
     "deploy": true
   },
   {
     "name": "Application to Ordinary Linear Differential Equations and Engineering Problems",
     "short-name": "ordinary-linear-differential",
     "repo": "https://github.com/virtual-labs/exp-ordinary-linear-differential-dei",
-    "tag": "v1.0.1",
+    "tag": "v1.0.2",
     "deploy": true
   }
 ],
