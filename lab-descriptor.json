@@ -1,8 +1,8 @@
 {
   "broadArea": {
     "name": "Physical Sciences",
-    "link": "https://www.vlab.co.in/broad-area-physical-sciences",
-    "code": "PHYSCI"
+    "link": "https://www.vlab.co.in/broad-area-mathematics",
+    "code": "MATH"
   },
   "lab": "Linear Algebra Virtual Lab",
   "lab_display_name": "Linear Algebra Virtual Lab",
